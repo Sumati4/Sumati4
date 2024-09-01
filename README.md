@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sumati</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
+![MERN Stack](
+https://github.com/Sumati4/Sumati4/blob/main/MERN%20Stack%20Development.html)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumati4&label=Profile%20views&color=0e75b6&style=flat" alt="sumati4" /> </p>
 
