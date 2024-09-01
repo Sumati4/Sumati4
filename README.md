@@ -1,5 +1,9 @@
 
-![MERN Stack](MERN_Stack.png)
+<div align="center">
+  <img src="MERN_Stack.png" alt="MERN Stack" />
+</div>
+
+
 
 <h1 align="center">Hi 👋, I'm Sumati</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
