@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumati4&label=Profile%20views&color=0e75b6&style=flat" alt="sumati4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumati4" alt="sumati4" /></a> </p>
-
 - 🔭 I’m currently working on [MeetNow](https://github.com/Sumati4/MeetNow)
 
 - 👨‍💻 All of my projects are available at [https://sumati-portfolio.onrender.com/](https://sumati-portfolio.onrender.com/)
@@ -20,7 +18,8 @@
 
 - 📫 How to reach me **sumati3976@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UTNgxASRUjs-LbDsI93e5qSanz2Y1dXd/view?usp=sharing](https://drive.google.com/file/d/1UTNgxASRUjs-LbDsI93e5qSanz2Y1dXd/view?usp=sharing)
+- 📄 Know about my experiences - 📄 [My Resume](https://drive.google.com/file/d/1UTNgxASRUjs-LbDsI93e5qSanz2Y1dXd/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
