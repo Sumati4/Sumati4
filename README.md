@@ -33,5 +33,5 @@
   <b>"Face the failure until the failure fails to face you." - MS DHONI</b>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumati4&" alt="sumati4" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumati4&" alt="sumati4" /></p>
 
